@@ -84,13 +84,13 @@ dotnet test
 
 ## 📋 Development Roadmap
 
-* [x] Solution setup following Clean Architecture multi-project structure
-* [x] Continuous Integration setup via GitHub Actions (`.github/workflows`)
-* [x] Domain entity design for customizable rubrics and clinical evaluation records
-* [ ] Local persistence layer implementation and repository wiring
-* [ ] ViewModel & Desktop UI implementation for rubric customization
-* [ ] Unit test suite covering evaluation scoring and CRUD boundary validation
-* [ ] Automated report formatting for completed evaluation summaries
+- [x] Solution setup following Clean Architecture multi-project structure (.NET 10)
+- [x] Continuous Integration setup via GitHub Actions (`.github/workflows`)
+- [x] Domain entity design for customizable rubrics and clinical evaluation records
+- [ ] Local persistence layer implementation and repository wiring
+- [ ] ViewModel & Desktop UI implementation for rubric customization
+- [ ] Unit test suite covering evaluation scoring and CRUD boundary validation
+- [ 🚀 ] **Future Scope:** Cross-platform deployment to mobile targets (iOS & Android)
 
 ---
 
