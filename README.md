@@ -21,8 +21,7 @@ Speech-language evaluations demand high diagnostic accuracy, yet clinicians ofte
 
 ## 🏗️ Architecture & Solution Structure
 
-The project strictly adheres to **Clean Architecture** principles to separate core domain business logic from desktop UI and persistence mechanisms:
-
+The solution strictly adheres to **Clean Architecture** principles. Visual system models—including ER diagrams, sequence workflows, use cases, and class hierarchies—are maintained in the [`docs/architecture/`](./docs/architecture/) directory.
 ```text
 SLPEntry/
 ├── src/

@@ -1,4 +1,4 @@
-﻿name: .NET CI
+﻿name: Clean Architecture CI Pipeline
 
 on:
   push:
