@@ -4,7 +4,7 @@
 
 > [![Build and Test CI Pipeline](https://github.com/JacobN17/SLPEntry/actions/workflows/ci.yml/badge.svg)](https://github.com/JacobN17/SLPEntry/actions/workflows/ci.yml)
 
-`SLPEntry` is an offline-first desktop application designed for Speech-Language Pathologists (SLPs). Built with **.NET MAUI Desktop**, it automates and standardizes clinical evaluation workflows by providing highly customizable diagnostic rubrics alongside robust CRUD management for clinical records.
+`SLPEntry` is an offline-first desktop application designed for Speech-Language Pathologists (SLPs). Built with **.NET MAUI Desktop**, it automates and standardizes clinical evaluation workflows by providing highly customizable diagnostic rubrics alongside robust CRUD management.
 
 ---
 
