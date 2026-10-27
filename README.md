@@ -44,7 +44,7 @@ SLPEntry/
 * **Language:** C# 13 / .NET 10
 * **Architecture:** Clean Architecture + MVVM Pattern
 * **Testing:** xUnit / FluentAssertions
-* **IDE & Tooling:** JetBrains Rider / Visual Studio, Git, GitHub Actions
+* **IDE & Tooling:** JetBrains Rider, Git, GitHub Actions
 
 ---
 
